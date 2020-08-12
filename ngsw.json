@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "/index.html",
+  "index": "https://venkatjavaji.github.io/ng-pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/inline.318b50c57b4eba3d437b.bundle.js",
-        "/main.0c1fd886a0b940a2c646.bundle.js",
-        "/polyfills.f0eca7a3efead95b6d35.bundle.js",
-        "/styles.ac89bfdd6de82636b768.bundle.css"
+        "https://venkatjavaji.github.io/ng-pwa/favicon.ico",
+        "https://venkatjavaji.github.io/ng-pwa/index.html",
+        "https://venkatjavaji.github.io/ng-pwa/inline.318b50c57b4eba3d437b.bundle.js",
+        "https://venkatjavaji.github.io/ng-pwa/main.0c1fd886a0b940a2c646.bundle.js",
+        "https://venkatjavaji.github.io/ng-pwa/polyfills.f0eca7a3efead95b6d35.bundle.js",
+        "https://venkatjavaji.github.io/ng-pwa/styles.ac89bfdd6de82636b768.bundle.css"
       ],
       "patterns": []
     },
@@ -26,11 +26,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "/main.0c1fd886a0b940a2c646.bundle.js": "53ed90599d00ff3f22ec39dedfb90050dea3ad27",
-    "/polyfills.f0eca7a3efead95b6d35.bundle.js": "781e0d4ffbf88cd87b5916efa72cb99753d7fe7b",
-    "/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "787daa50f34fea61e65f9040b84f4edad978abe0"
+    "https://venkatjavaji.github.io/ng-pwa/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "https://venkatjavaji.github.io/ng-pwa/main.0c1fd886a0b940a2c646.bundle.js": "53ed90599d00ff3f22ec39dedfb90050dea3ad27",
+    "https://venkatjavaji.github.io/ng-pwa/polyfills.f0eca7a3efead95b6d35.bundle.js": "781e0d4ffbf88cd87b5916efa72cb99753d7fe7b",
+    "https://venkatjavaji.github.io/ng-pwa/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "https://venkatjavaji.github.io/ng-pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://venkatjavaji.github.io/ng-pwa/index.html": "ba985aa90cecaf3791d071cf2de2e876ae3ab88d"
   }
 }
