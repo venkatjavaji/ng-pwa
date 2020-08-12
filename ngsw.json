@@ -12,7 +12,7 @@
         "https://venkatjavaji.github.io/ng-pwa/inline.318b50c57b4eba3d437b.bundle.js",
         "https://venkatjavaji.github.io/ng-pwa/main.d04ca5042acccfb33171.bundle.js",
         "https://venkatjavaji.github.io/ng-pwa/polyfills.f0eca7a3efead95b6d35.bundle.js",
-        "https://venkatjavaji.github.io/ng-pwa/styles.ac89bfdd6de82636b768.bundle.css"
+        "https://venkatjavaji.github.io/ng-pwa/styles.4316f9aa1768b9a0d3cc.bundle.css"
       ],
       "patterns": []
     },
@@ -20,17 +20,26 @@
       "name": "assets",
       "installMode": "lazy",
       "updateMode": "prefetch",
-      "urls": [],
+      "urls": [
+        "https://venkatjavaji.github.io/ng-pwa/assets/icon-128x128.png",
+        "https://venkatjavaji.github.io/ng-pwa/assets/icon-152x152.png",
+        "https://venkatjavaji.github.io/ng-pwa/assets/icon-256x256.png",
+        "https://venkatjavaji.github.io/ng-pwa/assets/icon-512x512.png"
+      ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
     "https://venkatjavaji.github.io/ng-pwa/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "https://venkatjavaji.github.io/ng-pwa/assets/icon-128x128.png": "f444fd3ae0dbc3be5741ef77cf9d0aa21bcdd9d5",
     "https://venkatjavaji.github.io/ng-pwa/main.d04ca5042acccfb33171.bundle.js": "994176a3e3c1fb021d1566a01ac55b641aa68274",
+    "https://venkatjavaji.github.io/ng-pwa/assets/icon-152x152.png": "c439eef9906d5a1758700fbbc8ea38d7295eb1bb",
     "https://venkatjavaji.github.io/ng-pwa/polyfills.f0eca7a3efead95b6d35.bundle.js": "781e0d4ffbf88cd87b5916efa72cb99753d7fe7b",
-    "https://venkatjavaji.github.io/ng-pwa/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "https://venkatjavaji.github.io/ng-pwa/assets/icon-256x256.png": "aa794bf00591bd06c9fee00126b321baa155ee8d",
+    "https://venkatjavaji.github.io/ng-pwa/styles.4316f9aa1768b9a0d3cc.bundle.css": "d442b1e7a725808f1cf10563a364b279b1f19fb6",
+    "https://venkatjavaji.github.io/ng-pwa/assets/icon-512x512.png": "ad9b5746e8a586f161f92b21f97c4cd81b157965",
     "https://venkatjavaji.github.io/ng-pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://venkatjavaji.github.io/ng-pwa/index.html": "1c5f60e78ba2695aac80f7c671bbc348050750f1"
+    "https://venkatjavaji.github.io/ng-pwa/index.html": "35bf255142348d9e50ac89a279b03227d33fec5d"
   }
 }
